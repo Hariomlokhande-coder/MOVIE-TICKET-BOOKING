@@ -191,13 +191,6 @@ CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**.  
-You can modify and use it for learning or other projects.
-
----
-
 ## Support
 
 For questions or issues:
