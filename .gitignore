@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual Environments ---
+venv/
+env/
+
+# --- Django Specific ---
+*.log
+db.sqlite3
+staticfiles/
+media/
+
+# --- Environment Variables ---
+.env
+
+# --- IDE and Editor Files ---
+.vscode/
+.idea/
+
+# --- Logs ---
+logs/
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
+
+# --- Test and Coverage Files ---
+.coverage
+.cache/
