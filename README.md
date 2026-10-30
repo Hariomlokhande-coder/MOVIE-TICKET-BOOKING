@@ -184,7 +184,7 @@ CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 - Add email and SMS notifications for bookings  
 - Implement seat layout selection  
 - Introduce user roles (Admin, Manager, Customer)  
-- Add multi-language support  
+- Add multi-language bilingual support  
 - Implement movie recommendation system  
 - Improve caching and performance (Redis)  
 - Develop a frontend using React or Next.js  
